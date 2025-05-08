@@ -1,5 +1,3 @@
-# basketball.py
-
 def game_dict():
     return {
         "home": {
